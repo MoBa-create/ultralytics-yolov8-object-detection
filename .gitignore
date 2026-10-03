@@ -1,0 +1,11 @@
+# Output images and weights
+runs/
+*.pt
+yolo_output.jpg
+*.jpg
+*.png
+
+# Python Cache
+__pycache__/
+.vscode/
+.idea/
